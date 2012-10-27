@@ -1,7 +1,7 @@
 ---
 blog_root: /blog_posts
-site_title: DPP's plaything
-has_blog: true
+site_title: Minerva KundenRechte GmbH
+has_blog: false
 template_url: https://github.com/telegr-am/template-blue.git
 
 ---

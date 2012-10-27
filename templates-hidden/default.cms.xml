@@ -59,53 +59,12 @@
 													<span>Lift</span>
 												</a>
 											</div>
-											<a class="lh-top-btn btn  btn-primary" href="http://demo.liftweb.net">Lift Demo</a>
+											<a class="lh-top-btn btn  btn-primary" href="http://www.pkv-kunde.de">Unser Service</a>
 										</div>
 									</div>
 								</div>
 
-								<lift:if toTest="quotes">
-									<script>
-								      $(document).ready(function(){
-                                        $('#lh-quote').carousel({
-                                          interval: 17000
-                                        });       
-								      });
-								    </script>
-									<div class="row-fluid">
-										<div class="span12">
-										    <div id="lh-quote" class="carousel slide">
-									          <div class="carousel-inner">
-										    	<div class="active item"><lift:embed what="/quotes/luke" /></div>
-										    	<div class="item"><lift:embed what="/quotes/lukasz-tyler" /></div>
-										    	<div class="item"><lift:embed what="/quotes/ebay" /></div>
-										    	<div class="item"><lift:embed what="/quotes/esme" /></div>
-										    	<div class="item"><lift:embed what="/quotes/foursquare" /></div>
-										    	<div class="item"><lift:embed what="/quotes/pongr" /></div>
-										    	<div class="item"><lift:embed what="/quotes/dale" /></div>
-										    	<div class="item"><lift:embed what="/quotes/sgrouples" /></div>
-										      </div>
-   						                    <!-- Carousel nav -->
-                                            <!-- <a class="carousel-control left" href="#hero-carousel" data-slide="prev">&lsaquo;</a> -->
-                                            <!-- <a class="carousel-control right" href="#hero-carousel" data-slide="next">&rsaquo;</a> -->
-
-										    <!--
-											<lift:choose refresh="17" class="hello">
-												<lift:embed what="/quotes/luke" />
-                                                <lift:embed what="/quotes/lukasz-tyler" />
-												<lift:embed what="/quotes/ebay" />
-												<lift:embed what="/quotes/esme" />
-												<lift:embed what="/quotes/foursquare" />
-												<lift:embed what="/quotes/pongr" />
-												<lift:embed what="/quotes/dale" />
-												<lift:embed what="/quotes/sgrouples" />
-											</lift:choose>
-										-->
-											</div>
-										</div>
-									</div>
-								</lift:if>
-
+				
 								<div id="content">
 									<lift:bind name="content" />
 								</div>
@@ -121,22 +80,11 @@
 									</div>
                                     <hr class="tight"/>
 									<div class="ftr-copy">Copyright &copy;
-										2010-2011 WorldWide Conferencing, LLC
+										2012 Minerva KundenRechte GmbH
 									</div>
 									<p>
-										Lift performance and tuning is courtesy of
-										<a href="http://yourkit.com">YourKit. </a>
-										<br />
-										Design by
-										<a href="http://www.joyreyes.com" target="_blank">Joy Reyes</a>
-										and
-										<a href="http://www.media4u101.se" target="_blank">Peter Petersson
-										</a>
-										<br />
-										Powered by
-										<a href="http://liftweb.net">Lift</a>
-										Hosted by
-										<a href="https://telegr.am">Telegram</a>
+										Unseren professionellen Service erreichen Sie unter
+										<a href="http://www.pkv-kunde.de">www.pkv-kunde.de</a>.
 									</p>
 								</div>
 								
