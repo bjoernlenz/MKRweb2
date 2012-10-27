@@ -1,5 +1,5 @@
-<cms path="/index" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
-	<tag name="menu" value="Dienstleistungen" />
+<cms path="/dienstleistung" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
+	<tag name="menu" value=" Dienstleistungen" />
 	<tag name="menu-icon" value="icon-hand-right icon-white" />
 	<tag name="order" value="1" />
 	<content>
