@@ -32,7 +32,7 @@
 						   <li>Beratung bei Problemen mit Ihrem Versicherer in Bezug auf Ihre bestehende Kranken-Vollversicherung</li>
 						   <li><a href="http://www.pkv-kunde.de">Expertise bei der Beitragssenkung durch Tarifwechsel in attraktivere Tarife bei Ihrem Versicherer.</a></li>
 						   </ul>
-						   </p><						    						    							
+						   </p>				    						    							
 							<p>
 								Wir arbeiten mit unserem Kunden in gegenseitigem Vertrauen zusammen und stehen auf seiner Seite.
 								Als ehrliche und zuverlässige Partner ermitteln wir die bestmögliche Lösung für unseren Kunden und vertreten seine Interessen gegenüber seinem Versicherer.
@@ -41,7 +41,7 @@
 								Nutzen auch Sie unsere fundierte Kompetenz in der privaten Krankenversicherung. Unsere Geschäftsführer und Berater verfügen über langjährige, umfangreiche Erfahrung in leitenden Funktionen großer Versicherungs-Konzerne.
 							</p>
 						</div>
-						
+						<lift:embed what="logocontainer" />
 						
 					</div>
 
