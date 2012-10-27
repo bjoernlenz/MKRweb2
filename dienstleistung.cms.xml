@@ -1,0 +1,79 @@
+<cms path="/index" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
+	<tag name="menu" value="Dienstleistungen" />
+	<tag name="menu-icon" value="icon-hand-right icon-white" />
+	<tag name="order" value="1" />
+	<content>
+		<lift:surround with="default" at="content" quotes="true">
+			<head>
+				<title>Minerva KundenRechte :: Dienstleistungen</title>
+			</head>
+
+			<div class="row-fluid">
+				<div class="span12">
+
+					<div class="row-fluid">
+						<div class="span12">
+                            <div class="page-header">
+						   	<h2>
+						   	   <span title="Wir stoppen die Schröpfung langjährig privat Krankenversicherter. Fachkompetent. Preiswert." id="lift-tt">
+						    	Unser Leistungsangebot – bestmögliche Lösungen für Sie
+						    	</span>
+						   	</h2>
+						   	</div>
+						   	<h3>
+						   	Tarifwechsel innerhalb Ihres Krankenversicherers mit erfolgsbezogenem Honorar
+						   	</h3>							
+							<p>
+								PKV-Kunde? Ihre Beiträge steigen und steigen und steigen? Wir analysieren für Sie ausgehend von Ihrem bestehenden Kranken-Vollversicherungs-Tarif vergleich­bare Tarife innerhalb Ihres Krankenversicherers und ermitteln den lohnendsten Tarifwechsel für Sie. Wenn Sie in einen der von uns ermittelten Tarife wechseln wollen, sorgen wir auf Ihren Wunsch hin für die Vertragsumstellung innerhalb Ihres Versicherers. Wir übernehmen in diesem Fall zum Tarifwechsel sämtliche Korrespondenz mit Ihrem Versicherer, bis Sie den neuen Versicherungsschein in Händen halten. Unser erfolgsbezogenes Honorar beträgt einmalig die Hälfte der fair ermittelten jährlichen Einsparung für den Kunden zzgl. 19 % MwSt.
+								</p>
+							<p>
+							Wir verhelfen Ihnen zu Ihrem Recht auf Tarifwechsel in attraktivere Tarife bei Ihrem Versicherer und zwar:
+							<ul>
+<li>ohne Kündigung Ihrer Versicherung: Ihre erworbenen Ansprüche bleiben erhalten</li>
+<li>in Tarifen mit vergleichbaren oder besseren Leistungsmerkmale</li>
+<li>bei jedem Gesundheitszustand: auch bei umfangreichen medizinischen Leistungen lohnend</li>
+<li>in jedem Alter, dabei gilt: je länger versichert, desto lohnender der Tarifwechsel für Sie.</li>							
+							
+							</ul>
+							</p>
+							<p>
+							<a href="http://www.pkv-kunde.de">Weitere Informationen zu unserem Tarifwechselservice innerhalb Ihres Krankenversicherers.</a>
+							</p>	
+						   
+						   <p>
+						   Berichterstattung gibt es auch</p>
+						   </p>	
+						   
+						   <h3>
+						   	Beratungsleistungen mit zeitbezogenem Honorar
+						   	</h3>							
+							<p>
+								Gerne stellen wir unsere fundierte Kompetenz in der privaten Krankenversicherung auch in einem zeitbezogenen Honorarmodell zur Verfügung. Themen, zu denen Sie eine Beratung beauftragen können sind unter anderem:
+								</p>
+						   <p>
+						   <ul>
+						   <li>Neuabschluss: Beratungen bezüglich der persönlichen Präferenz zum sinnvollen Umfang Ihrer Kranken-Vollversicherung</li>
+						   <li>Neuabschluss: Kundenorientierte Klärung von Meinungsverschiedenheiten über die Höhe von durch den Versicherer vorgeschlagenen oder festgelegten Risikozuschlägen</li>
+						   <li>Beratung bei Meinungsverschiedenheiten über die Höhe der vom Versicherer zu erstattenden Rechnungsbeträge</li>
+						   <li>Aktuarielle Analysen und Erklärungen aktuarieller Hintergründe</li>
+						   <li>Beratung von Unternehmen bezüglich ihrer Strategie mit Bezug zur privaten Kranken-Vollversicherung sowie Umsetzung einer solchen Strategie</li>
+						   <li>Zusätzlich zum Tarifwechsel: Kunden, die bewusst einen Wechsel in einen Tarif mit höheren Versicherungsumfang bei geringerer Beitragsverbesserung wünschen, zu Beratungen bezüglich der persönlichen Präferenz zum sinnvollen Umfang einer Kranken-Vollversicherung oder zur kundenorientierten Klärung von Meinungsverschiedenheiten zwischen dem Kunden und seinem Versicherer über die entsprechend den Vorerkrankungen angemessene Bepreisung der Mehrleistungen im Zieltarif</li>			    						    							
+							</ul>
+							</p>
+							<p>
+							Wir erlauben uns in diesem Modell ein auf die Bearbeitungszeit bezogenes Honorar in Höhe von 60 € für jede belegte Arbeitseinheit von 15 Minuten zuzüglich 19 % MwSt. zu berechnen.
+							</p>
+						<p>
+						Für eine Terminvereinbarung senden Sie uns bitte Terminvorschläge an mail@minerva-kundenrechte.de, und geben Sie an, ob wir Sie im Raum München besuchen dürfen, oder ob Sie uns in der St.-Martin-Straße 53 in München besuchen möchten. Alternativ hinterlassen Sie diese Informationen unter der Nummer (089) 230 695 111. Wir melden uns dann kurzfristig bei Ihnen. 
+							</p>
+						</div>
+						
+</div>
+
+
+				</div>
+			</div>
+
+		</lift:surround>
+	</content>
+</cms>
