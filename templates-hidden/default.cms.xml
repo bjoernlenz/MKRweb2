@@ -1,4 +1,4 @@
-<cms path="/logocontainer" type="html" locale="en_US" host="liftweb.net">
+<cms path="/logocontainer" type="html" locale="de_DE" host="minerva-kundenrechte.de">
 	<content>
 		<html xmlns="http://www.w3.org/1999/xhtml">
 			
