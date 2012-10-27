@@ -11,8 +11,6 @@
 			<div class="row-fluid">
 				<div class="span12">
 
-					
-
 					<div class="row-fluid">
 						<div class="span9">
                             <div class="page-header">
@@ -44,7 +42,12 @@
 						
 						
 					</div>
-<lift:embed what="logocontainer" />
+					<div id="col2" class="span3">
+46	  	
+-              <lift:embed what="logocontainer" />
+47	  	
+-            </div>
+
 
 				</div>
 			</div>
