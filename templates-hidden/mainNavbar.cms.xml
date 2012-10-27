@@ -1,4 +1,4 @@
-<cms path="/mainNavbar" type="html" locale="en_US" host="liftweb.net">
+<cms path="/mainNavbar" type="html" locale="de_DE" host="minerva-kundenrechte.de">
 	<content>
 				<div class="navbar navbar-fixed-top">
 					<div class="navbar-inner">
