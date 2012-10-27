@@ -1,0 +1,56 @@
+<cms path="/index" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
+	<tag name="menu" value=" Home" />
+	<tag name="menu-icon" value="icon-home icon-white" />
+	<tag name="order" value="1" />
+	<content>
+		<lift:surround with="default" at="content" quotes="true">
+			<head>
+				<title>Minerva KundenRechte :: Home</title>
+			</head>
+
+			<div class="row-fluid">
+				<div class="span12">
+
+					<lift:embed what="logocontainer" />
+
+					<div class="row-fluid">
+						<div class="span9">
+                            <div class="page-header">
+						   	<h1>
+						   	   <span title="Wir stoppen die Schröpfung langjährig privat Krankenversicherter. Fachkompetent. Preiswert." id="lift-tt">
+						    	Unabhängige Honorarberatung spezialisiert auf private Krankenversicherung
+						    	</span>
+						   	</h1>
+						   	</div>
+							<p>
+								Die Minerva KundenRechte GmbH wendet sich als unabhängige Honorarberatung 
+								exklusiv an PKV-Kunden. Sie ist ausschließlich ihren Kunden verpflichtet und erhält von ihnen ein Honorar. Von Versicherern erhält sie keinerlei wirtschaftliche Vorteile. Frei von Provisionsinteressen analysieren wir Ihre Situation als PKV-Kunde und klären Sie über Hintergründe auf:
+							</p>
+						    							
+							<div class="well">
+							<dl>
+								<dd><i class="icon-star-empty" style="vertical-align: middle;"></i> <strong>Beratung</strong> zum <strong>sinnvollen Umfang</strong> einer privaten Kranken-Vollversicherung</dd>
+	                            <dd><i class="icon-star-empty" style="vertical-align: middle;"></i> <strong>Beratung</strong> bei Problemen mit Ihrem Versicherer in Bezug auf Ihre bestehende Kranken-Vollversicherung</dd>
+								<dd><i class="icon-star-empty" style="vertical-align: middle;"></i> <a href="http://www.pkv-kunde.de">Expertise bei der Beitragssenkung durch Tarifwechsel in attraktivere Tarife bei Ihrem Versicherer.</a></dd>
+							</dl>
+                            </div>
+							<p>
+								Wir arbeiten mit unserem Kunden in gegenseitigem Vertrauen zusammen und stehen auf seiner Seite.
+								Als ehrliche und zuverlässige Partner ermitteln wir die bestmögliche Lösung für unseren Kunden und vertreten seine Interessen gegenüber seinem Versicherer.
+							</p>
+							<p>
+								Nutzen auch Sie unsere fundierte Kompetenz in der privaten Krankenversicherung. Unsere Geschäftsführer und Berater verfügen über langjährige, umfangreiche Erfahrung in leitenden Funktionen großer Versicherungs-Konzerne.
+							</p>
+						</div>
+						<div id="col2" class="span3">
+							<lift:embed what="col2" />
+						</div>
+					</div>
+
+
+				</div>
+			</div>
+
+		</lift:surround>
+	</content>
+</cms>
