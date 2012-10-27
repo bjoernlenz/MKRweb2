@@ -1,7 +1,7 @@
-<cms path="/dienstleistung" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
+<cms path="/impressum2" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
 	<tag name="menu" value=" Dienstleistungen" />
 	<tag name="menu-icon" value="icon-hand-right icon-white" />
-	<tag name="order" value="3" />
+	<tag name="order" value="5" />
 	<content>
 		<lift:surround with="default" at="content" quotes="true">
 			<head>

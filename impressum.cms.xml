@@ -1,5 +1,5 @@
 <cms path="/impressum" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
-	<tag name="menu" value="Impressum" />
+	<tag name="menu" value=" Impressum" />
 	<tag name="menu-icon" value="icon-globe icon-white" />
 	<tag name="order" value="10" />
 	<content>
