@@ -1,5 +1,5 @@
 <cms path="/impressum" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
-	<tag name="menu" value=" Impressum" />
+	<tag name="menu" value="Impressum" />
 	<tag name="menu-icon" value="icon-globe icon-white" />
 	<tag name="order" value="10" />
 	<content>
@@ -20,7 +20,62 @@
 						    	</span>
 						   	</h2>
 						   	</div>
-						   	test
+						   	<p>
+								Minerva KundenRechte GmbH
+								<br>St.-Martin-Straße 53</br>
+<br>81669 München</br>
+</p>
+<p>
+Fon (0 89) 230 695 111<br>
+Fax (0 89) 700 74 317</br><br>
+mail@minerva-kundenrechte.de</br><br>
+www.minerva-kundenrechte.de</br>
+</p>
+<p>
+Geschäftsführer:<br>
+Nicola Ferrarese, Diplom-Wirtschaftsingenieur</br><br>
+Dr. Björn Lenz, Aktuar (DAV)</br>
+</p>
+<p>
+Bankverbindung:<br>
+Stadtsparkasse München</br><br>
+BLZ 701 500 00</br><br>
+KTO 100 221 94 65</br>
+</p>
+<p>
+Handelsregister:<br>
+HRB 19 73 76, Amtsgericht München</br>
+</p>
+<p>
+Versicherungsberater mit Erlaubnis<br>
+nach § 34e (1) GewO erteilt durch</br><br>
+IHK für München und Oberbayern</br>
+</p>
+<p>
+Registerstelle:<br>
+Deutscher Industrie- und</br><br> 
+Handelskammertag (DIHK) e.V. </br><br>
+Breite Straße 29, 10178 Berlin </br>
+</p>
+<p>
+Registrierungsnummer: <br>
+D-YO61-0XRQP-99</br><br>
+www.vermittlerregister.info</br>
+</p>
+<p>
+Schlichtungsstellen:<br>
+Versicherungsombudsmann e.V.</br><br> 
+Postfach 08 06 32, 10006 Berlin</br>
+</p>
+<p>
+Ombudsmann für die private<br> 
+Kranken-/Pflegeversicherung </br><br>
+Postfach 06 02 22, 10052 Berlin</br>
+</p>
+<p>
+Berufsrechtliche Regelungen:<br>
+§ 34e GewO, § 68 VVG, VersVermV</br>
+								</p>
 							
 						</div>						
 					</div>
