@@ -41,12 +41,12 @@
 						</div>
 						
 						
-					</div>
-					<div id="col2" class="span3">
-46	  	
--              <lift:embed what="logocontainer" />
-47	  	
--            </div>
+										<div id="col2" class="span3">
+
+              <lift:embed what="logocontainer" />
+	  	
+            </div>
+</div>
 
 
 				</div>
