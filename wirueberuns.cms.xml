@@ -27,7 +27,7 @@
     <div class="row-fluid">
       <div class="span3">
 <p>
-<img src="../images/Nico_face.jpeg" width="200" height="200" alt="Nicola Ferrarese, Geschäftsführer der Minerva KundenRechte GmbH" />
+<img src="../images/Nico_face.jpeg" width="200" height="200" alt="Nicola Ferrarese, Geschäftsführer der Minerva KundenRechte GmbH" class="img-rounded"/>
 <br></br>
 Nicola Ferrarese
 </p>
@@ -59,7 +59,7 @@ Nicola Ferrarese ist überzeugt von der Überlegenheit des deutschen Systems der
     <div class="row-fluid">
       <div class="span3">
 <p>
-<img src="../images/Bjoern_face.jpeg" width="200" height="200" alt="Dr. Björn Lenz, Geschäftsführer der Minerva KundenRechte GmbH"/>
+<img src="../images/Bjoern_face.jpeg" width="200" height="200" alt="Dr. Björn Lenz, Geschäftsführer der Minerva KundenRechte GmbH" class="img-rounded"/>
 <br></br>
 Dr. Björn Lenz
 </p>
