@@ -1,7 +1,7 @@
 <cms path="/impressum" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
 	<tag name="menu" value=" Impressum" />
 	<tag name="menu-icon" value="icon-globe icon-white" />
-	<tag name="order" value="5" />
+	<tag name="order" value="15" />
 	<content>
 		<lift:surround with="default" at="content" quotes="true">
 			<head>
@@ -20,9 +20,14 @@
 						    	</span>
 						   	</h2>
 						   	</div>
-						   	<p>
-								Minerva KundenRechte GmbH
-								<br></br>Bavariafilmplatz 7
+						   	
+<div class="row-fluid">
+  <div class="span12">
+    <div class="row-fluid">
+      <div class="span6">
+<p>
+Minerva KundenRechte GmbH
+<br></br>Bavariafilmplatz 7
 <br></br>82031 Grünwald
 </p>
 <p>
@@ -46,6 +51,8 @@ KTO 100 221 94 65
 Handelsregister:<br></br>
 HRB 19 73 76, Amtsgericht München
 </p>
+</div>
+      <div class="span6">
 <p>
 Versicherungsberater mit Erlaubnis<br></br>
 nach § 34e (1) GewO erteilt durch<br></br>
@@ -76,6 +83,12 @@ Postfach 06 02 22, 10052 Berlin
 Berufsrechtliche Regelungen:<br></br>
 § 34e GewO, § 68 VVG, VersVermV
 								</p>
+</div>
+    </div>
+  </div>
+</div>
+
+
 						</div>						
 					</div>
 
