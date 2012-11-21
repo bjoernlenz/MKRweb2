@@ -25,17 +25,21 @@
 <div class="row-fluid">
   <div class="span12">
     <div class="row-fluid">
-      <div class="span6">Bild</div>
-      <div class="span6">
+      <div class="span2">
+<img src="../images/Nico_face.jpeg" width="200" height="200" alt="Nicola Ferrarese, Geschäftsführer der Minerva KundenRechte GmbH" />
+</div>
+      <div class="span10">
 <h3>Nicola Ferrarese</h3>
 Nico text ...
 </div>
     </div>
     <div class="row-fluid">
-      <div class="span6">Bild</div>
-      <div class="span6">
-<h3>Nicola Ferrarese</h3>
-Nico text ...
+      <div class="span2">
+<img src="../images/Bjoern_face.jpeg" width="200" height="200" alt="Dr. Björn Lenz, Geschäftsführer der Minerva KundenRechte GmbH" />
+</div>
+      <div class="span10">
+<h3>Dr. Björn Lenz</h3>
+Björn text ...
 </div>
     </div>
   </div>
