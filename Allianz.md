@@ -23,3 +23,21 @@ da diese durch die geringere Versichertenzahl besonders schnell schlecht selekti
 Aber: Bitte wenden Sie sich zum Tarifwechsel immer an einen Spezialisten. Geben Sie keine Rechte auf! Leistung runter ist keine Lösung,
 insbesondere im Alter. Lassen Sie sich von einem erfahrenen Versicherungsexperten, insbesondere auf möglichst mit aktuarieller Expertise
 aus dem Bereich private Krankenversicherung, unterstützen und Beraten.
+
+Viele Versicherte sind beispielsweise in einer der Tarifkombinationen
+
+* 701, 720, 741 (sehr hochwertiger Schutz mit minimalem Selbstbehalt)
+* 702, 720, 741 (sehr hochwertiger Schutz mit absolutem Selbstbehalt)
+* 703, 720, 741 (sehr hochwertiger Schutz mit absolutem Selbstbehalt)
+* 704, 720, 741 (sehr hochwertiger Schutz mit absolutem Selbstbehalt)
+* 705, 720, 741 (sehr hochwertiger Schutz mit absolutem Selbstbehalt)
+* 710, 720, 741 (sehr hochwertiger Schutz mit absolutem Selbstbehalt)
+* 711, 720, 741 (sehr hochwertiger Schutz mit absolutem Selbstbehalt)
+* 712, 720, 741 (sehr hochwertiger Schutz mit absolutem Selbstbehalt)
+
+Bessere Leistung zu weniger Beitrag ist möglich. Bitte kommen Sie in diesem Fall - aber auch in jedem der anderen aufgeführten Fälle - 
+auf uns zu: [www.pkv-kunde.de](http://www.pkv-kunde.de)
+
+Aber: Bitte wenden Sie sich zum Tarifwechsel immer an einen Spezialisten. Geben Sie keine Rechte auf! Leistung runter ist keine Lösung,
+insbesondere im Alter. Lassen Sie sich von einem erfahrenen Versicherungsexperten, insbesondere auf möglichst mit aktuarieller Expertise
+aus dem Bereich private Krankenversicherung, unterstützen und Beraten.
