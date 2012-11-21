@@ -21,31 +21,27 @@
 						   	</h2>
 
 						   	</div>
+
 <div class="row-fluid">
   <div class="span12">
-    
-<div class="row-fluid">
-<div class="span4">
-Bild
-</div>
-<div class="span8">
+    <div class="row-fluid">
+      <div class="span6">Bild</div>
+      <div class="span6">
 <h3>Nicola Ferrarese</h3>
 Nico text ...
 </div>
-</div>
-						   	
-<div class="row-fluid">
-<div class="span4">
-Bild
-</div>
-<div class="span8">
-<h3>NBJ</h3>
+    </div>
+    <div class="row-fluid">
+      <div class="span6">Bild</div>
+      <div class="span6">
+<h3>Nicola Ferrarese</h3>
 Nico text ...
-</div>							
-</div>	
-
+</div>
+    </div>
   </div>
 </div>
+
+
 
 						
 						</div>						
