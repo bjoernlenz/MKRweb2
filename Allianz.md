@@ -39,5 +39,8 @@ Bessere Leistung zu weniger Beitrag ist möglich. Bitte kommen Sie in diesem Fal
 auf uns zu: [www.pkv-kunde.de](http://www.pkv-kunde.de)
 
 Aber: Bitte wenden Sie sich zum Tarifwechsel immer an einen Spezialisten. Geben Sie keine Rechte auf! Leistung runter ist keine Lösung,
-insbesondere im Alter. Lassen Sie sich von einem erfahrenen Versicherungsexperten, insbesondere auf möglichst mit aktuarieller Expertise
+insbesondere im Alter oder als Rentner. Lassen Sie sich von einem erfahrenen Versicherungsexperten, insbesondere auf möglichst mit aktuarieller Expertise
 aus dem Bereich private Krankenversicherung, unterstützen und Beraten.
+
+Die Webseite der Allianz finden Sie unter
+[https://www.allianz.de/produkte/krankenversicherung/index.html](https://www.allianz.de/produkte/krankenversicherung/index.html).
