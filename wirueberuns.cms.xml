@@ -1,4 +1,4 @@
-<cms path="/dienstleistung" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
+<cms path="/ueberuns" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
 	<tag name="menu" value=" Über uns" />
 	<tag name="menu-icon" value="icon-user icon-white" />
 	<tag name="order" value="4" />
