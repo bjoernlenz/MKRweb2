@@ -1,0 +1,55 @@
+<cms path="/dienstleistung" serve="true" type="html" locale="de_DE" host="minerva-kundenrechte.de">
+	<tag name="menu" value=" Über uns" />
+	<tag name="menu-icon" value="icon-user icon-white" />
+	<tag name="order" value="4" />
+	<content>
+		<lift:surround with="default" at="content" quotes="true">
+			<head>
+				<title>Minerva KundenRechte :: Über uns</title>
+			</head>
+
+			<div class="row-fluid">
+				<div class="span12">
+
+					<div class="row-fluid">
+						<div class="span12">
+                            <div class="page-header">
+						   	<h2>
+						   	   <span title="Wir stoppen die Schröpfung langjährig privat Krankenversicherter. Individuell. Fachkompetent. Preiswert." id="lift-tt">
+						    	Fundierte Kompetenz aus langjähriger Erfahrung
+						    	</span>
+						   	</h2>
+						   	</div>
+<div class="row-fluid">
+<div class="span4">
+Bild
+</div>
+</div>
+<div class="row-fluid">
+<div class="span8">
+<h3>Nicola Ferrarese</h3>
+Nico text ...
+</div>
+</div>
+						   	
+<div class="row-fluid">
+<div class="span4">
+Bild
+</div>
+</div>
+<div class="row-fluid">
+<div class="span8">
+<h3>Nicola Ferrarese</h3>
+Nico text ...
+</div>
+</div>							
+						</div>						
+					</div>
+
+
+				</div>
+			</div>
+
+		</lift:surround>
+	</content>
+</cms>
