@@ -24,8 +24,6 @@
 <div class="span4">
 Bild
 </div>
-</div>
-<div class="row-fluid">
 <div class="span8">
 <h3>Nicola Ferrarese</h3>
 Nico text ...
@@ -36,12 +34,10 @@ Nico text ...
 <div class="span4">
 Bild
 </div>
-</div>
-<div class="row-fluid">
 <div class="span8">
 <h3>Nicola Ferrarese</h3>
 Nico text ...
-</div>
+</div>							
 </div>							
 						</div>						
 					</div>
