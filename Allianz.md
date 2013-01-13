@@ -17,12 +17,8 @@ Geschlossene Tarife bei der Allianz sind unter anderen
 * VS600V, VSZ2V (älter Kompakttarife mit Zweibettzimmer und Beitragsentlastung im Alter)
 * VSi, VSi0 (ältere Kompakttarife mit Primärarztpringzip und Zweibettzimmer)
 
-... und noch viel mehr andere Alttarife. Gerade bei seltenen Tarifen ist oft der PKV-Tarifwechsel besonders lukrativ,
+... und noch viel mehr andere Alttarife. Gerade bei seltenen Tarifen ist oft der Wechsel besonders lukrativ,
 da diese durch die geringere Versichertenzahl besonders schnell schlecht selektiert werden.
-
-Aber: Bitte wenden Sie sich zum Tarifwechsel immer an einen Spezialisten. Geben Sie keine Rechte auf! Leistung runter ist keine Lösung,
-insbesondere im Alter. Lassen Sie sich von einem erfahrenen Versicherungsexperten, insbesondere auf möglichst mit aktuarieller Expertise
-aus dem Bereich private Krankenversicherung, unterstützen und Beraten.
 
 Viele Versicherte sind beispielsweise in einer der Tarifkombinationen
 
@@ -35,12 +31,14 @@ Viele Versicherte sind beispielsweise in einer der Tarifkombinationen
 * 711, 720, 741 (sehr hochwertiger Schutz mit prozentualem Selbstbehalt)
 * 712, 720, 741 (sehr hochwertiger Schutz mit prozentualem Selbstbehalt)
 
-Bessere Leistung zu weniger Beitrag ist möglich. Bitte kommen Sie in diesem Fall - aber auch in jedem der anderen aufgeführten Fälle - 
+Gleichwertige oder sogar bessere Leistungen zu niedrigerem Beitrag ist möglich. 
+Bitte kommen Sie in diesem Fall - aber auch in jedem der anderen aufgeführten Fälle - 
 auf uns zu: [www.pkv-kunde.de](http://www.pkv-kunde.de)
 
-Aber: Bitte wenden Sie sich zum Tarifwechsel immer an einen Spezialisten. Geben Sie keine Rechte auf! Leistung runter ist keine Lösung,
-insbesondere im Alter oder als Rentner. Lassen Sie sich von einem erfahrenen Versicherungsexperten, insbesondere auf möglichst mit aktuarieller Expertise
-aus dem Bereich private Krankenversicherung, unterstützen und Beraten.
+Aber: Bitte wenden Sie sich zum Tarifwechsel immer an einen Spezialisten. Geben Sie keine Rechte auf! 
+Reduzierung der Leistungen ist keine Lösung, insbesondere im Alter oder als Rentner. 
+Lassen Sie sich von einem erfahrenen Versicherungsexperten mit aktuariellem Fachwissen
+aus dem Bereich private Krankenversicherung unterstützen und beraten.
 
 Die Webseite der Allianz finden Sie unter
 [https://www.allianz.de/produkte/krankenversicherung/index.html](https://www.allianz.de/produkte/krankenversicherung/index.html).
