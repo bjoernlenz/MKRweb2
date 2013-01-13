@@ -32,7 +32,7 @@ Viele Versicherte sind beispielsweise in einer der Tarifkombinationen
 * 712, 720, 741 (sehr hochwertiger Schutz mit prozentualem Selbstbehalt)
 
 Gleichwertige oder sogar bessere Leistungen zu niedrigerem Beitrag ist möglich. 
-Bitte kommen Sie in diesem Fall - aber auch in jedem der anderen aufgeführten Fälle - 
+Bitte kommen Sie in diesem Fall - aber auch in jedem der anderen, nicht aufgeführten Fälle - 
 auf uns zu: [www.pkv-kunde.de](http://www.pkv-kunde.de)
 
 Aber: Bitte wenden Sie sich zum Tarifwechsel immer an einen Spezialisten. Geben Sie keine Rechte auf! 
