@@ -33,12 +33,24 @@ Viele Versicherte sind beispielsweise in einer der Tarifkombinationen:
 * A100/SB 3, Z100, VSG100
 * A100/SB 4, Z100, VSG100
 * GA 80, GZa 50, GZE, GS 3, GSW
+* GA 90, GZa 70, GZE, GS 3, GS 1
+* GA 90, GZa 70, GZE, GS 3, GS 2
 * GA 90, GZa 70, GZE, GS 3, GSW
-* GA 100, GZa 80, GZE, GS 2
-* GA/SB 1, GZa 80, GZE, GS 1
-* GA/SB 2, GZa 80, GZE, GS 2
-* GA/SB 3, GZa 80, GZE, GS 3
-* GA/SB 4, GZa 80, GZE, GS 3
+* GA 100, GZa 80, GZE, GS 3, GS 1
+* GA 100, GZa 80, GZE, GS 3, GS 2
+* GA 100, GZa 80, GZE, GS 3, GSW
+* GA/SB 1, GZa 80, GZE, GS3, GS 1
+* GA/SB 1, GZa 80, GZE, GS3, GS 2
+* GA/SB 1, GZa 80, GZE, GS3, GSW
+* GA/SB 2, GZa 80, GZE, GS 3, GS 1
+* GA/SB 2, GZa 80, GZE, GS 3, GS 2
+* GA/SB 2, GZa 80, GZE, GS 3, GSW
+* GA/SB 3, GZa 80, GZE, GS 3, GS 1
+* GA/SB 3, GZa 80, GZE, GS 3, GS 2
+* GA/SB 3, GZa 80, GZE, GS 3, GSW
+* GA/SB 4, GZa 80, GZE, GS 3, GS 1
+* GA/SB 4, GZa 80, GZE, GS 3, GS 2
+* GA/SB 4, GZa 80, GZE, GS 3, GSW
 * A 100/SB 1, Z 80-0, VS 100/3
 * A 100/SB 2, Z 80-2, VS 100/3
 * A 100/SB 3, Z 80-5, VS 100/3
