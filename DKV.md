@@ -8,8 +8,8 @@ Zu der Tarif-Landschaft der DKV gehören mittlerweile unter anderen:
 
 * AD1 (ambulanter Baustein T-80 Reihe mit relativem und absolutem Selbstbehalten)
 * AP1 (ambulanter Baustein mit absolutem Selbstbehalt)
-* A0, A1 (A305), A2 (A610), A3 (A1225) (Globale ambulante Bausteine ohne und mit Selbstbehalt)
-* AB01, AB02, AB03, AB80, AB90, AN01, AN03 (Victoria ambulante Bausteine mit absolutem und relativem Selbstbehalt)
+* A0, A1 (A305, A330), A2 (A610, A660), A3 (A1225) (Globale ambulante Bausteine ohne und mit Selbstbehalt)
+* AB01, AB02, AB03, AB80, AB90, AN01, AN03, AN06 (Victoria ambulante Bausteine mit absolutem und relativem Selbstbehalt)
 * Akzent, ProAktiv, SmartPlus (Globale Kompakttarife)
 * AV, GAV (Victoria-Ärztetarife)
 * SD2, SD3 (stationäre Bausteine mit Zwei- und Mehrbettzimmer T-80 Reihe)
@@ -42,18 +42,20 @@ Viele Versicherte sind beispielsweise in einer der Tarifkombinationen:
 
 * A0, Z, SR, SW 1
 * A0, Z, SR, SW 2
-* A305, Z, SR, SW1
-* A305, Z, SR, SW2
-* A610, Z, SR, SW1
-* A610, Z, SR, SW2
-* A1225, Z, SR, SW1
-* A1225, Z, SR, SW2
+* A1, Z, SR, SW1
+* A1, Z, SR, SW2
+* A2, Z, SR, SW1
+* A2, Z, SR, SW2
+* A3, Z, SR, SW1
+* A3, Z, SR, SW2
 * AB01, AN01, ZB100, SB3, SB1
 * AB01, AN01, ZB100, SB3, SB2
 * AB02, AN01, ZB100, SB3, SB1
 * AB02, AN01, ZB100, SB3, SB2
 * AB03, AN03, ZB100, SB3, SB1
 * AB03, AN03, ZB100, SB3, SB2
+* AB06, AN03, ZB100, SB3, SB1
+* AB06, AN03, ZB100, SB3, SB2
 * AB90, AN03, ZB100, SB3, SB1
 * AB90, AN03, ZB100, SB3, SB2
 * BSK
