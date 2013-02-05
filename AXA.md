@@ -1,6 +1,6 @@
 ## Privat Krankenversichert bei der *AXA*?
 
-Die AXA Krankenversicherung AG 
+Die *AXA Krankenversicherung AG* (auch bekannt als *AXA Colonia*)
 besitzt dank der Fusion mit der Colonia Versicherung AG und späterer Verstärkung durch Albingia und 
 DBV Winterthur (die ihrerzeit durch Fusion der DBV und Winterthur-Versicherung enstanden war)
 eine komplexe Tarif-Landschaft, in der sich sehr viele Versichertenkollektive mit unterschiedlichsten Beitragsniveaus gebildet haben. Diese vielen Kollektive sind oft klein und schlecht selektiert, was zu öfteren Beitragsanpassungen führt. Ein Wechsel in ein besseres Kollektiv hilft, der Beitragsfalle zu entkommen.
