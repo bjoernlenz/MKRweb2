@@ -6,6 +6,7 @@
 		<lift:surround with="default" at="content" quotes="true">
 			<head>
 				<title>Minerva KundenRechte :: Home</title>
+				<meta name="google-site-verification" content="chxoU-0sDBmBlxnZ9tqWXCI6y2OL7DzEpxEadeFbXrI" />
 			</head>
 
 			<div class="row-fluid">
