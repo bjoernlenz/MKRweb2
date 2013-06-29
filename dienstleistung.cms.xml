@@ -6,6 +6,7 @@
 		<lift:surround with="default" at="content" quotes="true">
 			<head>
 				<title>Minerva KundenRechte :: Dienstleistungen</title>
+				<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/tarifwechsel"></meta>
 			</head>
 
 			<div class="row-fluid">
