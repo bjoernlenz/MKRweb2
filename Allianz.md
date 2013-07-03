@@ -1,3 +1,5 @@
+<redirect data-lift="head" href="http://www.minerva-kundenrechte.de/pkv/tarifwechsel-allianz"></redirect>
+
 ## Privat Krankenversichert bei der *Allianz*?
 
 Gerade bei der *Allianz Private Krankenversicherung AG*
