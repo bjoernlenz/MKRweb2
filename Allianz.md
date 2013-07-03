@@ -1,6 +1,10 @@
-<redirect data-lift="head" href="http://www.minerva-kundenrechte.de/pkv/tarifwechsel-allianz"></redirect>
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/pkv/tarifwechsel-allianz"></meta>
+</head>
 
 ## Privat Krankenversichert bei der *Allianz*?
+Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
+<a href="www.minerva-kundenrechte.de/pkv/tarifwechsel-allianz">hier</a>.
 
 Gerade bei der *Allianz Private Krankenversicherung AG*
 gibt es viele geschlossene und schlecht selektierte Tarife. Ein Tarifwechsel ist in diesem Fall meist dringend anzuraten.
