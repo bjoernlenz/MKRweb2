@@ -6,6 +6,7 @@
 		<lift:surround with="default" at="content" quotes="true">
 			<head>
 				<title>Minerva KundenRechte :: Impressum</title>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/impressum"></meta>
 			</head>
 
 			<div class="row-fluid">
@@ -100,7 +101,7 @@ Berufsrechtliche Regelungen:<br></br>
 <div class="row-fluid">
   <div class="span12">
 Sie sind bei einem der 43 privaten Krankenversicherer versichert, zum Beispiel:
-<a href="/Allianz">Allianz</a>,
+<a href="/allianz">Allianz</a>,
 <a href="/AXA">AXA</a>, 
 <a href="/BBKK">BBKK</a>,
 <a href="/Central">Central</a>,
