@@ -1,4 +1,11 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Inter"></meta>
+</head>
+
 ## Privat Krankenversichert bei der *Inter*?
+
+Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
+<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-Inter">hier</a>.
 
 Der *Inter Krankenversicherung aG* (auch bekannt als *INTER*) besitzt dank 
 der Fusion von

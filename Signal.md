@@ -1,4 +1,11 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Signal"></meta>
+</head>
+
 ## Privat Krankenversichert bei der *Signal*?
+
+Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
+<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-Signal">hier</a>.
 
 Die SIGNAL Krankenversicherung AG (auch Signal-Iduna oder Signal genannt) schaffte durch den Zusammenschluss der Signal Versicherungen und der Iduna Nova Gruppe in 1999
 und häufige Einführung neuer Tariflinien mit verschiedensten Selbstbehalt-Stufen eine komplexe Tarif-Landschaft, in der sich sehr viele Versichertenkollektive mit unterschiedlichsten Beitragsniveaus gebildet haben. Diese vielen Kollektive sind oft schlecht selektiert, was zu öfteren Beitragsanpassungen führt. Ein Wechsel in ein besseres Kollektiv hilft, der Beitragsfalle zu entkommen.

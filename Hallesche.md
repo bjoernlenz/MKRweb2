@@ -4,6 +4,9 @@
 
 ## Privat Krankenversichert bei der *HALLESCHE*?
 
+Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
+<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-HALLESCHE">hier</a>.
+
 Die *HALLESCHE Krankenversicherung a.G.* (auch bekannt als *HALLESCHE Nationale*) besitzt dank 
 der wiederholten Einführung neuer Tariflinien mit verschiedensten Selbstbehalt-Stufen
 eine komplexe Tarif-Landschaft, in der sich sehr viele Versichertenkollektive mit unterschiedlichsten Beitragsniveaus gebildet haben. Diese vielen Kollektive sind oft klein und schlecht selektiert, was zu öfteren Beitragsanpassungen führt. Ein Wechsel in ein besseres Kollektiv hilft, der Beitragsfalle zu entkommen.

@@ -1,4 +1,12 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-VKB"></meta>
+</head>
+
+
 ## Privat Krankenversichert bei der *VKB*?
+
+Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
+<a href="www.minerva-kundenrechte.de/PKV/VKB">hier</a>.
 
 Die Versicherungskammer Bayern (unter anderem die Bayerische Beamtenkrankenkasse AG, auch BK oder BBKK genannt) brachte durch die Zusammenführung mit der Union Krankenversicherung AG (UKV) in 2000 und wiederholte Einführung neuer Tariflinien mit verschiedensten Selbstbehalt-Stufen eine komplexe Tarif-Landschaft hervor, in der sich viele Kollektive mit unterschiedlichsten Beitragsniveaus gebildet haben. Diese vielen Kollektive sind oft schlecht selektiert, was zu öfteren Beitragsanpassungen führt. Ein Wechsel in ein besseres Kollektiv hilft, der Beitragsfalle zu entkommen.
 

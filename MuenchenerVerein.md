@@ -1,4 +1,11 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Muenchener-Verein"></meta>
+</head>
+
 ## Privat Krankenversichert bei der *Münchener Verein*?
+
+Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
+<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-Muenchener-Verein">hier</a>.
 
 Die Münchener Verein Krankenversicherung a.G. (auch Münchner Verein genannt) wurde in 1922 als
 Versicherungsanstalt des Bayerischen Gewerbebundes gegründet und 

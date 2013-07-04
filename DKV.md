@@ -4,6 +4,9 @@
 
 ## Privat Krankenversichert bei der *DKV*?
 
+Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
+<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-DKV">hier</a>.
+
 Die DKV Deutsche Krankenversicherung AG (DKV) 
 besitzt dank dem Zusammenschluss von Victoria Krankenversicherung AG, Zürich Krankenversicherungs AG, KarstadtQuelle Krankenversicherung AG und DKV
 eine komplexe Tarif-Landschaft, in der sich sehr viele Versichertenkollektive mit unterschiedlichsten Beitragsniveaus gebildet haben. Diese vielen Kollektive sind oft schlecht selektiert, was zu öfteren Beitragsanpassungen führt. Ein Wechsel in ein besseres Kollektiv hilft, der Beitragsfalle zu entkommen.
