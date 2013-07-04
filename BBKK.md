@@ -4,6 +4,8 @@
 
 
 ## Privat Krankenversichert bei der *BBKK*?
+Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
+<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-BBKK">hier</a>.
 
 Die Bayerische Beamtenkrankenkasse AG (auch BK oder BBKK genannt) brachte durch die wiederholte Einführung neuer Tariflinien mit verschiedensten Selbstbehalt-Stufen und Zusammenführung mit der Union Krankenversicherung AG (UKV) in 2000 eine komplexe Tarif-Landschaft hervor, in der sich viele Kollektive mit unterschiedlichsten Beitragsniveaus gebildet haben. Diese vielen Kollektive sind oft schlecht selektiert, was zu öfteren Beitragsanpassungen führt. Ein Wechsel in ein besseres Kollektiv hilft, der Beitragsfalle zu entkommen.
 

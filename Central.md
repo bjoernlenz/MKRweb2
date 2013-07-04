@@ -5,6 +5,9 @@
 
 ## Privat Krankenversichert bei der *Central*?
 
+Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
+<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-Central">hier</a>.
+
 Die Central Krankenversicherung AG besitzt dank der Fusionen mit der SAVAG Saarbrücker 
 Krankenversicherungs-AG in 1997 und mit der Generali Krankenversicherung AG in 2000 
 sowie der wiederholten Einführung neuer Tariflinien mit verschiedensten Selbstbehalt-Stufen

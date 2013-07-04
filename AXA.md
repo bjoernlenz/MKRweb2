@@ -4,6 +4,8 @@
 
 
 ## Privat Krankenversichert bei der *AXA*?
+Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
+<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-AXA">hier</a>.
 
 Die *AXA Krankenversicherung AG* (auch bekannt als *AXA Colonia*)
 besitzt dank der Fusion mit der Colonia Versicherung AG und späterer Verstärkung durch Albingia und 
