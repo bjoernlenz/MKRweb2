@@ -1,3 +1,8 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-AXA"></meta>
+</head>
+
+
 ## Privat Krankenversichert bei der *AXA*?
 
 Die *AXA Krankenversicherung AG* (auch bekannt als *AXA Colonia*)

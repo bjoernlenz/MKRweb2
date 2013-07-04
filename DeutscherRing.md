@@ -1,3 +1,8 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Deutscher-Ring"></meta>
+</head>
+
+
 ## Privat Krankenversichert bei dem *Deutscher Ring*?
 
 Der *Deutscher Ring Krankenversicherungsverein a.G.* (auch bekannt als *Deutscher Ring*) besitzt dank 

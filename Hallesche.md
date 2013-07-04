@@ -1,3 +1,7 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-HALLESCHE"></meta>
+</head>
+
 ## Privat Krankenversichert bei der *HALLESCHE*?
 
 Die *HALLESCHE Krankenversicherung a.G.* (auch bekannt als *HALLESCHE Nationale*) besitzt dank 

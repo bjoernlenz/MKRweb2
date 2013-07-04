@@ -1,5 +1,5 @@
 <head>
-<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/pkv/tarifwechsel-allianz"></meta>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Allianz"></meta>
 </head>
 
 ## Privat Krankenversichert bei der *Allianz*?

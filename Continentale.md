@@ -1,3 +1,8 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Continentale"></meta>
+</head>
+
+
 ## Privat Krankenversichert bei der *Continentale*?
 
 Die Continentale Krankenversicherung a.G. besitzt dank der wiederholten Einführung neuer Tariflinien mit verschiedensten Selbstbehalt-Stufen

@@ -1,3 +1,7 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Gothaer"></meta>
+</head>
+
 ## Privat Krankenversichert bei der *Gothaer*?
 
 Die Gothaer Krankenversicherung AG besitzt dank der Fusion mit der Berlin-Kölnische 

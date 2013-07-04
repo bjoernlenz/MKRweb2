@@ -1,3 +1,7 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-DKV"></meta>
+</head>
+
 ## Privat Krankenversichert bei der *DKV*?
 
 Die DKV Deutsche Krankenversicherung AG (DKV) 

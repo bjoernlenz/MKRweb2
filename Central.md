@@ -1,3 +1,8 @@
+<head>
+<meta data-lift="head" http-equiv="refresh" content="0; url=http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Central"></meta>
+</head>
+
+
 ## Privat Krankenversichert bei der *Central*?
 
 Die Central Krankenversicherung AG besitzt dank der Fusionen mit der SAVAG Saarbrücker 
