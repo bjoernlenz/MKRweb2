@@ -4,7 +4,7 @@
 
 ## Privat Krankenversichert bei der *Allianz*?
 Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
-<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-Allianz">hier</a>.
+<a href="http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Allianz">hier</a>.
 
 Gerade bei der *Allianz Private Krankenversicherung AG*
 gibt es viele geschlossene und schlecht selektierte Tarife. Ein Tarifwechsel ist in diesem Fall meist dringend anzuraten.
