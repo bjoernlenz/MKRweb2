@@ -5,7 +5,7 @@
 ## Privat Krankenversichert bei der *Inter*?
 
 Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
-<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-Inter">hier</a>.
+<a href="http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Inter">hier</a>.
 
 Der *Inter Krankenversicherung aG* (auch bekannt als *INTER*) besitzt dank 
 der Fusion von

@@ -5,7 +5,7 @@
 ## Privat Krankenversichert bei der *HALLESCHE*?
 
 Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
-<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-HALLESCHE">hier</a>.
+<a href="http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-HALLESCHE">hier</a>.
 
 Die *HALLESCHE Krankenversicherung a.G.* (auch bekannt als *HALLESCHE Nationale*) besitzt dank 
 der wiederholten Einführung neuer Tariflinien mit verschiedensten Selbstbehalt-Stufen

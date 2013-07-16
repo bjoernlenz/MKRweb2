@@ -6,7 +6,7 @@
 ## Privat Krankenversichert bei dem *Deutscher Ring*?
 
 Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
-<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-Deutscher-Ring">hier</a>.
+<a href="http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Deutscher-Ring">hier</a>.
 
 Der *Deutscher Ring Krankenversicherungsverein a.G.* (auch bekannt als *Deutscher Ring*) besitzt dank 
 der wiederholten Einführung neuer Tariflinien mit verschiedensten Selbstbehalt-Stufen

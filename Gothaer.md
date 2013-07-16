@@ -5,7 +5,7 @@
 ## Privat Krankenversichert bei der *Gothaer*?
 
 Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
-<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-Gothaer">hier</a>.
+<a href="http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-Gothaer">hier</a>.
 
 Die Gothaer Krankenversicherung AG besitzt dank der Fusion mit der Berlin-Kölnische 
 Krankenversicherung a.G. in 1996 

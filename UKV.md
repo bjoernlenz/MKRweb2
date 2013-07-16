@@ -5,7 +5,7 @@
 ## Privat Krankenversichert bei der *UKV*?
 
 Diese Seite ist umgezogen. Sie finden die aktuelle Version dieser Seite
-<a href="www.minerva-kundenrechte.de/PKV/Tarifwechsel-UKV">hier</a>.
+<a href="http://www.minerva-kundenrechte.de/PKV/Tarifwechsel-UKV">hier</a>.
 
 
 Die Union Krankenversicherung AG (UKV) brachte durch die Einführung der Tarifen mit verschiedensten Selbstbehalt-Stufen und Zusammenführung mit der Bayerischen Beamtenkrankenkasse AG (BBKK) in 2000 eine komplexe Tarif-Landschaft hervor, in der sich viele Kollektive mit unterschiedlichsten Beitragsniveaus gebildet haben. Diese vielen Kollektive sind oft schlecht selektiert, was zu öfteren Beitragsanpassungen führt. Ein Wechsel in ein besseres Kollektiv hilft, der Beitragsfalle zu entkommen.
